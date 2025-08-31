@@ -12,6 +12,10 @@
 
 <br>
 <br>
+
+## Requirements
+` pip install opencv-python mediapipe numpy pandas scikit-learn joblib `
+<br>
 <br>
 
 ## 데이터 수집단계
